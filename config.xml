@@ -39,6 +39,6 @@
 
     <gap:splash src="splash.jpg" />
 	<feature name="http://api.phonegap.com/1.0/network"/>
-	<gap:plugin name="org.apache.cordova.inappbrowser" version="0.2.4" />
+	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
 	<gap:plugin name="cordova-plugin-admob" source="npm" />
 </widget>
